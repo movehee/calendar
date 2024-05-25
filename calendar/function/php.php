@@ -4,7 +4,7 @@
 		//db host 정보 기본 값
 		$host = "localhost";
 		$user =	"root";
-		$password = "@king67992";
+		$password = "";
 		$dbname = "baseball";
 		$con = new mysqli($host, $user, $password, $dbname);
 		
